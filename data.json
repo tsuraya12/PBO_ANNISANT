@@ -1,0 +1,44 @@
+[
+    {
+        "id": "67566dfaed27b",
+        "nama": "Risol Sayur ayam pedas",
+        "harga": "3000",
+        "stok": "50"
+    },
+    {
+        "id": "67566e1963014",
+        "nama": "Risol Sayur ayam ori",
+        "harga": "3000",
+        "stok": "42"
+    },
+    {
+        "id": "67566e320643a",
+        "nama": "Risol Sayur ati pedas",
+        "harga": "2500",
+        "stok": "30"
+    },
+    {
+        "id": "67566e44cb19d",
+        "nama": "Risol Mayo smokebeef",
+        "harga": "3000",
+        "stok": "30"
+    },
+    {
+        "id": "67566e6485ce6",
+        "nama": "Risol Mayo pedas crabstik",
+        "harga": "3000",
+        "stok": "30"
+    },
+    {
+        "id": "67566e80cc7fa",
+        "nama": "Risol mayo moza",
+        "harga": "4000",
+        "stok": "20"
+    },
+    {
+        "id": "675674ccb97b2",
+        "nama": "Risol abon",
+        "harga": "3000",
+        "stok": "10"
+    }
+]
